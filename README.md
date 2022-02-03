@@ -18,4 +18,4 @@ A program that generates PacMen to bounce around your screen. An Exercise in Rec
 
 ## License 
 
-Review the MIT License [here](https://github.com/ErMcGimsey/MIT-Eye-Exercise/blob/main/LICENSE)
+Review the MIT License [here](https://github.com/ErMcGimsey/MIT-PacMen-Excercise/blob/main/LICENSE)
